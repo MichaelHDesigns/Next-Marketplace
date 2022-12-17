@@ -8,7 +8,7 @@ module.exports = {
   defaultNetwork: "hardhat",
   networks: {
     hardhat: {
-      chainId: 1337
+      chainId: 2330
     },
     mumbai: {
       // maticvigil mumbai, you can use any other RPC u want.
