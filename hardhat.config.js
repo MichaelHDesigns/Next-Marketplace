@@ -10,9 +10,9 @@ module.exports = {
     hardhat: {
       chainId: 2330
     },
-    mumbai: {
+    altcoinchain: {
       // maticvigil mumbai, you can use any other RPC u want.
-      url: `https://rpc-mumbai.maticvigil.com/v1/${appId}`,
+      url: `https://rpc0.altcoinchain.org/rpc`,
       accounts: [privateKey]
     },
     matic: {
